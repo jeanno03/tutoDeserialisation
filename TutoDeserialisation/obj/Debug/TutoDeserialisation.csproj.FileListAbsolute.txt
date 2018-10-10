@@ -1,0 +1,7 @@
+C:\Users\Jeannory.Phou\source\repos\git\TutoDeserialisation\TutoDeserialisation\bin\Debug\TutoDeserialisation.exe.config
+C:\Users\Jeannory.Phou\source\repos\git\TutoDeserialisation\TutoDeserialisation\bin\Debug\TutoDeserialisation.exe
+C:\Users\Jeannory.Phou\source\repos\git\TutoDeserialisation\TutoDeserialisation\bin\Debug\TutoDeserialisation.pdb
+C:\Users\Jeannory.Phou\source\repos\git\TutoDeserialisation\TutoDeserialisation\obj\Debug\TutoDeserialisation.csprojAssemblyReference.cache
+C:\Users\Jeannory.Phou\source\repos\git\TutoDeserialisation\TutoDeserialisation\obj\Debug\TutoDeserialisation.csproj.CoreCompileInputs.cache
+C:\Users\Jeannory.Phou\source\repos\git\TutoDeserialisation\TutoDeserialisation\obj\Debug\TutoDeserialisation.exe
+C:\Users\Jeannory.Phou\source\repos\git\TutoDeserialisation\TutoDeserialisation\obj\Debug\TutoDeserialisation.pdb

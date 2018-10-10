@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bibliotheque xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Livres>
+    <Livre>
+      <Titre>Molière</Titre>
+    </Livre>
+    <Livre>
+      <Titre>Scalpin</Titre>
+    </Livre>
+    <Livre>
+      <Titre>Mortedo</Titre>
+    </Livre>
+    <Livre>
+      <Titre>Machin</Titre>
+    </Livre>
+    <Livre>
+      <Titre>Médor</Titre>
+    </Livre>
+  </Livres>
+  <BibliothequeAdjacente>
+    <Livres />
+  </BibliothequeAdjacente>
+  <Theme>Blanc</Theme>
+</Bibliotheque>
